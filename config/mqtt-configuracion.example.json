@@ -1,0 +1,9 @@
+{
+    "server_address": "mqtt.servidor-rsa.org",
+    "username": "usuario_rsa",
+    "password": "PASSWORD_AQUI",
+    "topicSuscription": "presa/instrumentacion/+/medicion",
+    "topicPublish": "presa/instrumentacion/+/respuesta",
+    "topic_solicitud": "presa/instrumentacion/solicitud",
+    "topic_respuesta": "presa/instrumentacion/respuesta"
+}

@@ -1,0 +1,18 @@
+{
+    "dispositivo": {
+        "id": "CON01_",
+        "ubicacion": "presa"
+    },
+    "directorios": {
+        "archivosRecibidos": "/home/rsa/archivos-recibidos/",
+        "medicionesVertederos": "/home/rsa/mediciones/vertederos/",
+        "resultadosVertederos": "/home/rsa/resultados/vertederos/",
+        "resultadosCoordinometros": "/home/rsa/resultados/coordinometros/"
+    },
+    "drive": {
+        "vertederos": "ID_CARPETA_DRIVE_VERTEDEROS",
+        "coordinometro": "ID_CARPETA_DRIVE_COORDINOMETROS",
+        "cajasMedicion": "ID_CARPETA_DRIVE_CAJAS_MEDICION",
+        "archivosSubidos": "ID_CARPETA_DRIVE_ARCHIVOS_SUBIDOS"
+    }
+}

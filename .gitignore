@@ -1,0 +1,59 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# C / Compilacion
+*.o
+*.obj
+*.so
+*.dylib
+*.a
+*.exe
+*.out
+*.app
+
+# Archivos de credenciales y tokens (SEGURIDAD)
+credentials.json
+token.json
+drive_token.json
+*.pem
+*.key
+*.p12
+
+# Archivos de configuracion con credenciales activas
+config/DatosConfiguracion.json
+config/mqtt-configuracion.json
+
+# Logs y temporales
+*.log
+log-files/
+tmp/
+*.tmp
+
+# Archivos de sistema operativo e IDEs
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
